@@ -1,3 +1,4 @@
+from random import randint
 import scrapy
 from bookscraper.items import BookItem
 
